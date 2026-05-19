@@ -1,8 +1,7 @@
 # Design-and-functional-analysis-of-the-BMW-E39-transmission-and-drive-shaft-system.
 CAD modeling and engineering calculations for the BMW E39 transmission.
-Iată codul complet pentru fișierul README.md tradus și adaptat profesional în limba engleză. Am folosit terminologia tehnică de inginerie auto standard (e.g., propeller shaft, universal joints, case-hardening).
 
-Poți copia direct textul de mai jos:
+![BMW E39 Driveshaft System](https://lh3.googleusercontent.com/d/1ZfR2l75v_7y7Hk54FqR7M_t5_8C8_NfW)
 
 Markdown
 # Design and Functional Analysis: Transmission and Drive Shaft System (BMW E39)
@@ -140,3 +139,6 @@ The shaft is a hollow tube with an outer diameter $D = 71\text{ mm}$ and inner d
 * **Component Design:** Incorporates a tubular shaft for higher torsional rigidity, case-hardened components (surface hardness **56 - 65 HRC**, depth 0.7 - 1.5 mm), and elastomeric center support bearings to prevent critical frequency resonance.
 
 ---
+
+
+

@@ -147,7 +147,8 @@ The shaft is a hollow tube with an outer diameter $D = 71\text{ mm}$ and inner d
 The entire assembly was modeled using **SolidWorks**, focusing on kinematic accuracy and structural integrity. This chapter details the individual components and their functional roles within the BMW E39 drivetrain.
 
 ### A. Compound Propeller Shaft (Front Section)
-![Compound Shaft](img/pic1.png)
+<img width="1038" height="714" alt="Screenshot 2026-05-19 133242" src="https://github.com/user-attachments/assets/a41aa615-ae6c-4efb-abd8-6b09d25fbbd2" />
+
 *   **Description:** The primary shaft section featuring a splined output "gear" end and an integrated center support.
 *   **Role:** It transfers power from the gearbox. The splined end is designed to mate with the sliding yoke.
 *   **Technical Detail:** It includes a **center support bracket** with a high-precision **bearing**. This component is crucial for stabilizing long drivelines and mitigating bending harmonics.

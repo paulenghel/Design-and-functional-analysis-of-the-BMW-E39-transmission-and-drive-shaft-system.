@@ -1,7 +1,7 @@
 # Design-and-functional-analysis-of-the-BMW-E39-transmission-and-drive-shaft-system.
 CAD modeling and engineering calculations for the BMW E39 transmission.
 
-<img width="1024" height="983" alt="image" src="https://github.com/user-attachments/assets/4f3ed9e2-c856-46dc-abf4-a507c1220b82" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4f3ed9e2-c856-46dc-abf4-a507c1220b82" />
 
 
 Markdown

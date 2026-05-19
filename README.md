@@ -154,29 +154,34 @@ The entire assembly was modeled using **SolidWorks**, focusing on kinematic accu
 *   **Technical Detail:** It includes a **center support bracket** with a high-precision **bearing**. This component is crucial for stabilizing long drivelines and mitigating bending harmonics.
 
 ### B. Sliding Cardan Yoke
-![Cardan Yoke](img/pic2.png)
+<img width="786" height="520" alt="Screenshot 2026-05-19 133427" src="https://github.com/user-attachments/assets/1e9d1a07-7ea5-413c-84d2-1ba5e6132bc1" />
+
 *   **Description:** An internal splined yoke that slides onto the compound shaft's output end.
 *   **Role:** This component allows for axial movement (**clearance**). 
 *   **Functionality:** As the vehicle's suspension travels up and down, the distance between the gearbox and the rear axle changes. This sliding joint compensates for those variations, preventing mechanical binding or damage to the transmission.
 
 ### C. Universal Joint Spider (Cross)
-![Spider Cross](img/pic3.png)
+<img width="685" height="422" alt="Screenshot 2026-05-19 133706" src="https://github.com/user-attachments/assets/ac35436a-e240-4e37-8fd6-aec8dab988dc" />
+
 *   **Description:** The heart of the universal joint, featuring four precision-ground journals.
 *   **Role:** It acts as the pivot point between the two shafts.
 *   **Technical Detail:** It utilizes **needle roller bearings** to handle high torque loads while allowing angular deflection. It enables the transmission of power at varying angles with minimal friction.
 
 ### D. Simple Propeller Shaft (Rear Section)
-![Simple Shaft](img/pic4.png)
+<img width="1087" height="688" alt="Screenshot 2026-05-19 133959" src="https://github.com/user-attachments/assets/339d6a63-d826-48ec-bf5d-d08da23ed045" />
+
 *   **Description:** The secondary, rigid section of the drive line.
 *   **Role:** It bridges the final distance to the rear differential. Like the front section, it is modeled as a hollow tube to optimize the strength-to-weight ratio and increase the critical speed limit.
 
 ### E. Full Driveline Assembly
-![Full Assembly](img/pic5.png)
+<img width="1341" height="765" alt="Screenshot 2026-05-19 134051" src="https://github.com/user-attachments/assets/8e555ed2-c853-4692-b443-c1296666f301" />
+
 *   **Overview:** The complete BMW E39 longitudinal transmission system.
 *   **Integration:** This view showcases how the compound shaft, sliding yoke, and rear shaft work in unison. The center support bearing is positioned to divide the total length, ensuring the system remains balanced and vibration-free at high rotational speeds.
 
 ### F. Internal Section View
-![Section View](img/pic6.png)
+<img width="1385" height="802" alt="Screenshot 2026-05-19 134152" src="https://github.com/user-attachments/assets/523d5a6f-6b9b-4122-8928-13963f3896f1" />
+
 *   **Description:** A longitudinal cutaway of the entire assembly.
 *   **Insight:** This view reveals the internal fitment between the splined shaft and the yoke, the seating of the bearings, and the hollow architecture of the tubes. It demonstrates the structural optimization and the precise clearances required for functional suspension compensation.
 

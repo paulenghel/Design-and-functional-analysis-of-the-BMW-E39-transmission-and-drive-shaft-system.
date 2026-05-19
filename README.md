@@ -1,10 +1,8 @@
 # Design-and-functional-analysis-of-the-BMW-E39-transmission-and-drive-shaft-system.
 CAD modeling and engineering calculations for the BMW E39 transmission.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4f3ed9e2-c856-46dc-abf4-a507c1220b82" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4f3ed9e2-c856-46dc-abf4-a507c1220b82" />
 
-
-Markdown
 # Design and Functional Analysis: Transmission and Drive Shaft System (BMW E39)
 
 This repository contains the engineering study, analytical calculations, and CAD modeling of a longitudinal drivetrain (driveshaft) system, focusing on the **BMW 5 Series (E39)** as a case study.
